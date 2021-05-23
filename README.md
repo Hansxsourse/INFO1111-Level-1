@@ -1,4 +1,9 @@
 # INFO1111-Level-1
+requirement:
+`pytorch
+cv2
+pygame
+cuda`
 
 To train the model, use `python train.py`
 
